@@ -2,8 +2,3 @@
 Framework_Linux
 
 npm install cypress-downloadfile
-
-
-I
-
-
